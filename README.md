@@ -1,6 +1,7 @@
 ## Distributed-Interference-Management-for-6G-inX-subnetworks
 
 
+![GitHub Logo](/images/logo.png)
 
 
 ## Usage
