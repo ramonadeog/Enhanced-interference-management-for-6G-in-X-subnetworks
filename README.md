@@ -29,6 +29,7 @@ The algorithms are described in details in [1]
 If you use this repository or any part of it, please cite the following articles
 
 [1] R. Adeogun, G. Berardinelli, I. Rodriguez and P. Mogensen, "Distributed Dynamic Channel Allocation in 6G in-X Subnetworks for Industrial Automation," 2020 IEEE Globecom Workshops (GC Wkshps, 2020, pp. 1-6, doi: 10.1109/GCWkshps50303.2020.9367532.
+
 [2]. Adeogun, R. O., Berardinelli, G., & E. Mogensen, P. (2021). Learning to Dynamically Allocate Radio Resources in Mobile 6G in-X Subnetworks. Manuscript submitted for publication. In IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)
 
 
