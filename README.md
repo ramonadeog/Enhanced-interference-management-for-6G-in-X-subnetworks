@@ -1,1 +1,1 @@
-# Distributed-Interference-Management-for-6G-subnetworks
+## Distributed-Interference-Management-for-6G-inX-subnetworks
